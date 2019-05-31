@@ -13,5 +13,9 @@ Terminal will reflect recieved query string command and GPIO pin will go high or
 
 
 PHASE 2  RECIEVING COMMAND FROM MIT APP
+Access the MIT app from Android device using MIT Companion
+press buttons to activate light.
 
+Details of the MIT APP are in the MIT project http://ai2.appinventor.mit.edu/#6022352981327872or in the Google Doc visual
+https://docs.google.com/document/d/15BRcYtlkej4QBrFS-zgaiHLXK3vyLfZ1F3s9zuJ3HXw/edit
 
